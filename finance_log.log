@@ -1,0 +1,3 @@
+2026-05-27 02:12:10 | calculate_mortgage | args=100000, 30 | return=360000.0
+2026-05-27 02:12:10 | calculate_life_expenses | args=100000, 50 | return=600000.0
+2026-05-27 02:12:10 | calculate_savings | args=100000, 360000.0, 600000.0 | return=240000.0
